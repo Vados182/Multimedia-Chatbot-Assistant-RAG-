@@ -2,6 +2,8 @@
 
 A Python-based Chatbot web application built with Streamlit and the official OpenAI API. This project enables interactive conversations with advanced Large Language Models (LLMs) and features contextual analysis of uploaded documents using a simplified RAG / In-Context Learning mechanism.
 
+[View the live application](https://vados182-streamlit-openai-chatbot-app-m3ly6e.streamlit.app/)
+
 ## 🚀 Key Features
 
 * **Real-Time Model Selection:** Dynamically switch models via the sidebar interface. Supported models include `gpt-4o-mini`, `gpt-4o`, `gpt-4-turbo`, and `gpt-3.5-turbo`.
